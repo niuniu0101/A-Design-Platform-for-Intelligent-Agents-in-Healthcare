@@ -7,7 +7,7 @@ This project is a health check recommendation system built using [AgentOS](https
 
 ### 🗂️Folder Structure🗂️
 ```
-HCR-by-AgentOS/
+A-Design-Platform-for-Intelligent-Agents-in-Healthcare/
 ├── config/
 │   └── settings.py
 ├── data/
