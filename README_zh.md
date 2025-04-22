@@ -4,7 +4,7 @@
 
 ### ![由 DeepSeek 驱动](https://img.shields.io/badge/Powered_by-DeepSeek_V3-0A0A0A?style=for-the-badge&logo=deepseek)
 
-# 🩺健康检查推荐系统🩺
+# 🩺面向医疗领域的智能体设计平台🩺
 
 本项目是一个基于 [AgentOS](https://github.com/QinbinLi/AgentOS) 和 [together.ai（DeepSeek V3）](https://docs.together.ai/docs/serverless-models) 构建的体检推荐系统。它使用 RAG（检索增强生成）技术，根据用户信息推荐个性化体检套餐。
 
@@ -13,7 +13,7 @@
 ### 🗂️文件结构🗂️
 
 ```
-HCR-by-AgentOS/
+A-Design-Platform-for-Intelligent-Agents-in-Healthcare/
 ├── config/
 │   └── settings.py
 ├── data/
